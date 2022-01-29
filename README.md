@@ -1,6 +1,6 @@
 <img src="photoMe.jpg" width="225" height="200">
 
-### Kate Hallock Guede
+## Kate Hallock Guede
 
 ## About Me
 <p>I was born and raised in Southern California. I am a native English speaker and am fluent in Spanish.  I have my Master’s degree in Educational Technology. While I have focused on education for my first career, I am looking forward to pivoting towards technology and specifically full stack developing for my second career. <br>
