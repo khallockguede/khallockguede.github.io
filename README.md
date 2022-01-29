@@ -1,3 +1,4 @@
+<img src="photoMe.jpg" width="225" height="200">
 
 ### Kate Hallock Guede
 
