@@ -2,7 +2,7 @@
 ### Kate Hallock Guede
 
 ## About Me
-<p>Born and raised in Southern California, I am a native English speaker and am fluent in Spanish.  I have my Master’s degree in Educational Technology. While I have focused on education for my first career, I am looking forward to pivoting towards technology and specifically full stack developing for my second career. <br>
+<p>I was born and raised in Southern California. I am a native English speaker and am fluent in Spanish.  I have my Master’s degree in Educational Technology. While I have focused on education for my first career, I am looking forward to pivoting towards technology and specifically full stack developing for my second career. <br>
 
 I have completed the first third of the MIT xPRO Professional Certificate in Coding: Full Stack Development with MERN while aiming at proficiency in JavaScript, CSS and HTML.</p>
 
